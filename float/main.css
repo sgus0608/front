@@ -1,0 +1,15 @@
+@charset 'utf-8';
+*{
+    font-size: 14px;
+}
+body{
+    width: 100%;
+    background-color: #fff;
+    height: 100%;
+}
+.wrap{
+    width: 100%;
+    max-width: 800px;
+    background-color: tomato;
+    margin: 0 auto;
+}
